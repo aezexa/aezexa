@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on my 6th semester.
-- 🌱 I’m currently learning Angular and Python.
+- 🌱 I’m currently learning Deep Learning.
 - 🤔 I’m looking for help with Artificial Intelligence and Machine Learning.
 - 👀 I’m interested in Reading Manga, Making Music (Played The Piano Since 8), Speed-Typing, Playing Chess
 - 💬 Ask me about everything. I like questions.
