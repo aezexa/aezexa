@@ -6,8 +6,7 @@
 - 💬 Ask me about everything. I like questions.
 - 📫 How to reach me: [My Gmail](mailto:honarvar45@gmail.com), [My Telegram](https://t.me/aezexa)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: If you're curious about the duck's speed in my profile picture, [here](https://www.reddit.com/r/theydidthemath/comments/l5yjah/comment/gkycr68/?utm_source=share&utm_medium=web2x&context=3)'s the calculations.
-
+- 
 <p align="center">
   <a href="#" alt="Alireza Honarvar's github stats"><img src="https://github-readme-stats.vercel.app/api?username=aezexa" /></a>
 </p>
