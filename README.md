@@ -1,10 +1,9 @@
 ### Hi there 👋
-- 🔭 I’m currently working on my 6th semester.
-- 🌱 I’m currently learning Deep Learning.
-- 🤔 I’m looking for help with Artificial Intelligence and Machine Learning.
-- 👀 I’m interested in Reading Manga, Making Music (Played The Piano Since 8), Speed-Typing, Playing Chess
-- 💬 Ask me about everything. I like questions.
-- 📫 How to reach me: [My Gmail](mailto:honarvar45@gmail.com), [My Telegram](https://t.me/aezexa)
+- 🔭 I’m currently working on my 7th semester.
+- 🌱 I’m currently looking deeper into Deep Learning.
+- 👀 I’m interested in playing chess, making music (Played the piano since 8), speed-typing, reading manga. I'm also a language enthusiast. I love learning any language!
+- 💬 Ask me about anything. I like questions.
+- 📫 How to reach me: [My Gmail](mailto:honarvar45@gmail.com)
 - 😄 Pronouns: He/Him
 <p align="center">
   <a href="#" alt="Alireza Honarvar's github stats"><img src="https://github-readme-stats.vercel.app/api?username=aezexa" /></a>
