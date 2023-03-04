@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on my 7th semester.
+- 🔭 I’m currently working on my 8th semester.
 - 🌱 I’m currently looking deeper into Deep Learning.
 - 👀 I’m interested in playing chess, making music (Played the piano since 8), speed-typing, reading manga. I'm also a language enthusiast. I love learning any language!
 - 💬 Ask me about anything. I like questions.
