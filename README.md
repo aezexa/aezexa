@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on my 8th semester.
-- 🌱 I’m currently looking deeper into Deep Learning.
+- 🔭 I’m currently working on my 2nd semester of M.Sc. in Computer Science: Machine Learning, Artificial Intelligence and Data Science.
+- 🌱 I’m currently looking deeper into Reinforcement Learning.
 - 👀 I’m interested in playing chess, making music (Played the piano since 8), speed-typing, reading manga. I'm also a language enthusiast. I love learning any language!
 - 💬 Ask me about anything. I like questions.
 - 📫 How to reach me: [My Gmail](mailto:honarvar45@gmail.com)
