@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on my 2nd semester of M.Sc. in Computer Science: Machine Learning, Artificial Intelligence and Data Science.
+- 🔭 I’m currently working on my last semester of M.Sc. in Computer Science: Machine Learning, Artificial Intelligence and Data Science and finishing my thesis.
 - 🌱 I’m currently looking deeper into Reinforcement Learning.
 - 👀 I’m interested in playing chess, making music (Played the piano since 8), speed-typing, reading manga. I'm also a language enthusiast. I love learning any language!
 - 💬 Ask me about anything. I like questions.
